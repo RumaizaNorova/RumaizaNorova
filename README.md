@@ -28,14 +28,19 @@ Experimenting with machine learning, data science, and applied AI systems.
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-yellow?logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
+
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RumaizaNorova&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=RumaizaNorova&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=RumaizaNorova&theme=tokyonight)
 
