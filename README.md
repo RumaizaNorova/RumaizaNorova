@@ -32,13 +32,3 @@ Experimenting with machine learning, data science, and applied AI systems.
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=RumaizaNorova&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=RumaizaNorova&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RumaizaNorova&layout=compact&theme=tokyonight)
